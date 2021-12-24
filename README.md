@@ -1,2 +1,0 @@
-# dentistas
-Proyecto de dentistas
